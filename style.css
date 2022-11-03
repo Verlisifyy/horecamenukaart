@@ -7,7 +7,7 @@
 }
 
 body {
-  font-family: "Poppins", sans-serif;
+  font-family: 'Montserrat', sans-serif;
  background-image: url(BELUGA_IMAGE_01-1024x683.jpg);
  background-repeat: no-repeat;
  background-size: cover;
@@ -21,7 +21,7 @@ body {
 
 .navbar {
   width: 100%;
-  box-shadow: 0 1px 4px rgb(146 161 176 / 15%);
+  box-shadow: 0 1px 4px rgba(255, 255, 255, 0.15);
 }
 
 .nav-container {
@@ -87,7 +87,7 @@ body {
   height: 4px;
   width: 100%;
   border-radius: 10px;
-  background: #5c5c5c;
+  background: #ffffff;
 }
 
 .nav-container .hamburger-lines .line1 {
