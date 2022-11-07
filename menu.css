@@ -1,0 +1,30 @@
+body {
+    background-image: url(https://media.discordapp.net/attachments/1032192947606786048/1039097012689326131/unknown.png?width=982&height=655);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.fishchips img {
+    max-height: 250px;
+    max-width: 250px;
+}
+
+.hamburger img {
+    max-height: 250px;
+    max-width: 250px;
+}
+
+.pavlova img {
+    max-height:250px;
+    max-width: 250px;
+}
+
+.meatpie img {
+    max-height:250px;
+    max-width: 250px;
+
+}
+
+.lamingtons img {
+    max-height: 250px;
+    max-width: 250px;
+}
