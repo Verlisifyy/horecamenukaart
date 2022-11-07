@@ -10,7 +10,13 @@
   padding: 0;
   box-sizing: border-box;
 }
-
+.verhaaltekst {
+color: white;
+position: absolute;
+top: 150px;
+left: 600px;
+font-size: xx-large;
+}
 
 body {
   font-family: 'Montserrat', sans-serif;
