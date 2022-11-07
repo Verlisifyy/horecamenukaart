@@ -176,6 +176,7 @@ body {
   overflow: hidden;
   position: relative;
   border-radius: 50%;
+  top: 250px;
 }
 
 .btn i {
