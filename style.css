@@ -115,7 +115,6 @@ body {
   margin-left: -40px;
   padding-left: 50px;
   transition: transform 0.5s ease-in-out;
-  text-align: center;
 }
 
 .navbar .menu-items li {
@@ -222,10 +221,12 @@ body {
   }
 }
 .fade-in-text {
+  text-align: center;
   font-family: Arial;
-  font-size: 150px;
   animation: fadeIn 5s;
 }
+
+
 @keyframes fadeIn {
   0% { opacity: 0; }
   100% { opacity: 1; }
@@ -261,3 +262,16 @@ body {
 @-ms-keyframes fadeIn {
   0% { opacity: 0; }
   100% { opacity: 1; }
+}
+
+p1{
+  color: white;
+  font-size: 80px;
+  text-align: center;
+}
+
+p2{
+  color: white;
+  font-size: 40px;
+  text-align: center;
+}
